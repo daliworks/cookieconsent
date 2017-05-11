@@ -1,0 +1,26 @@
+/* Classic for TP */
+
+.cc-floating.cc-theme-classic-tp {
+  padding: 1.2em;
+  border-radius: 5px;
+  opacity: 0.5;
+}
+
+.cc-floating.cc-type-info.cc-theme-classic-tp .cc-compliance {
+  text-align: center;
+  display: inline;
+  flex: none;
+}
+
+.cc-theme-classic-tp .cc-btn {
+  border-radius: 5px;
+  float: right;
+}
+.cc-theme-classic-tp .cc-btn:last-child {
+  opacity: 1;
+  min-width: 140px;
+}
+
+.cc-floating.cc-type-info.cc-theme-classic-tp .cc-btn {
+  display: inline-block;
+}
