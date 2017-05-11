@@ -1,8 +1,15 @@
 /* Classic for TP */
 
 .cc-floating.cc-theme-classic-tp {
-  padding: 1.2em;
+  padding: 5px;
   border-radius: 5px;
+}
+
+.cc-floating.cc-theme-classic-tp.cc-message {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 1em;
+    padding: 15px;
 }
 
 .cc-floating.cc-type-info.cc-theme-classic-tp .cc-compliance {
@@ -14,9 +21,9 @@
 .cc-theme-classic-tp .cc-btn {
   border-radius: 5px;
   float: right;
+  font-weight: normal;
 }
 .cc-theme-classic-tp .cc-btn:last-child {
-  opacity: 1;
   min-width: 140px;
 }
 
