@@ -5,7 +5,7 @@
   border-radius: 5px;
 }
 
-.cc-floating.cc-theme-classic-tp.cc-message {
+.cc-floating .cc-message {
     display: block;
     font-weight: normal;
     margin-bottom: 1em;
